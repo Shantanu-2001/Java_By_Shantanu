@@ -4,7 +4,7 @@ public class Conditions{
 
 		Scanner input= new Scanner(System.in);
 		
-		System.out.println("Enter your age :-");
+		System.out.println("अपना रोल र दर्ज करें  :-");
 		int age=input.nextInt();
 
 		if(age >=18){
